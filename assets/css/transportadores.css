@@ -1,0 +1,4 @@
+/* Estilos específicos da página de Transportadores */
+.table-transportadores tbody tr:hover {
+    background-color: #f8fafc;
+}

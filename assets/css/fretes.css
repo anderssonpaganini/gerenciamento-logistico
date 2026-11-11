@@ -1,0 +1,7 @@
+/* Estilos específicos da página de Fretes */
+.card-frete {
+    border-top: 4px solid #198754;
+}
+.table-fretes tbody tr:hover {
+    background-color: #f8fafc;
+}

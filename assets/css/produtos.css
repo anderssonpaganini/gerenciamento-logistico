@@ -1,0 +1,8 @@
+/* Estilos específicos da página de Produtos */
+.table-produtos tbody tr:hover {
+    background-color: #f8fafc;
+}
+
+.input-dimensao {
+    text-align: center;
+}

@@ -1,0 +1,4 @@
+/* Estilos específicos da página de Endereços */
+.table-enderecos tbody tr:hover {
+    background-color: #f8fafc;
+}
