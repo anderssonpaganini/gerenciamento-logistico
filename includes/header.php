@@ -21,7 +21,7 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ms-auto">
-                    <li class="nav-item"><a class="nav-link" href="/gerenciamento-logistico/index.php">Dashboard</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/gerenciamento-logistico/index.php">Início</a></li>
                     <li class="nav-item"><a class="nav-link" href="/gerenciamento-logistico/produtos/index.php">Produtos</a></li>
                     <li class="nav-item"><a class="nav-link" href="/gerenciamento-logistico/enderecos/index.php">Endereços</a></li>
                     <li class="nav-item"><a class="nav-link" href="/gerenciamento-logistico/transportadores/index.php">Transportadores</a></li>
@@ -30,4 +30,4 @@
             </div>
         </div>
     </nav>
-    <div class="container pb-5">
+    <div class="container pb-5 flex-grow-1">
