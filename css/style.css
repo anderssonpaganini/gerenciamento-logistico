@@ -1,0 +1,26 @@
+/* Customizações globais do Gerenciador Logístico */
+body {
+    background-color: #f4f6f9;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.card-custom {
+    border: none;
+    border-radius: 10px;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.card-custom:hover {
+    box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+}
+
+.btn-custom-green {
+    background-color: #198754;
+    color: #ffffff;
+    border: none;
+}
+
+.btn-custom-green:hover {
+    background-color: #146c43;
+    color: #ffffff;
+}
